@@ -25,4 +25,3 @@ hooks:
     - location: scripts/ApplicationStart.sh
       timeout: 120
       runas: root
-© 2019 GitHub, Inc.
